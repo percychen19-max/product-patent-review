@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品专利评估"
+  short_description: "核对产品样机与目标市场授权专利，给出选型、改款或开模建议"
+  default_prompt: "使用 $product-patent-review 评估这个产品，先给我一句可转发的结论。"
